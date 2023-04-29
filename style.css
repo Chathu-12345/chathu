@@ -1,0 +1,125 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 40px;
+  font-size: 1000%;
+  font-family: "Clicker Script";
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 4%;
+}
+a{
+  margin: 10px 20px;
+}
+.top-container {
+  background-color: #EAF6F6;
+  height: 810px;
+}
+
+.mountain {
+  position: relative;
+  top: 20px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 500px;
+  top: 20px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 500px;
+  top: 450px;
+}
+
+.profile-img{
+ margin-top: 80PX;
+ margin-bottom: 30px;
+}
+.intro{
+  width: 25%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2 {
+  width: 50%;
+  margin: 250px auto 100px auto;
+  text-align: left;
+
+}
+
+.skill {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.contact-massage{
+  width: 30%;
+  margin: 40px auto 40px;
+}
+.contact-me{
+  margin-bottom:100px;
+}

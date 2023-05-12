@@ -61,6 +61,7 @@ a{
 .profile-img{
  margin-top: 80PX;
  margin-bottom: 30px;
+ border-radius: 50px;
 }
 .intro{
   width: 25%;
